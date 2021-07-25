@@ -217,13 +217,6 @@ class MaumauController extends Controller
     }
 
     /**
-     * Places card on the discard pile if available
-     */
-    protected function placeCardOnDiscard($player) {
-
-    }
-
-    /**
      * Gets players from PlayerController
      */
     protected function getPlayers() {
